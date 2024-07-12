@@ -2,7 +2,7 @@
 
 DÍA 1/06/2024. INTRODUCCIÓN A R 
 
-#### María Coto Sarmiento (Universidad de Aarhus, Dinamarca. Contacto: mcotsar[at]gmail.com
+#### María Coto Sarmiento, Universidad de Aarhus, Dinamarca. Contacto: mcotsar[at]gmail.com
 
 # MODULOS DEL CURSO
 
