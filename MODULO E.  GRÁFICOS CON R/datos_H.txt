@@ -1,0 +1,10 @@
+Cronología,Yacimiento,Tipo de pieza,Densidad
+1200,Almedinilla,Vasija,10
+1300,El_desafio,Estatua,15
+1400,La_berrica,Moneda,20
+1500,Abersimemuero,Arma,5
+1200,Almedinilla_2,Vasija,12
+1300,El_desafio_2,Estatua,10
+1400,La_berrica_2,Moneda,50
+1500,Abersimemuero_2,Arma,5
+

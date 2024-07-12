@@ -1,0 +1,9 @@
+data,tomato,garlic,bread,oliveoil,salt,onion,vinegar,parsley,green_pepper,red_pepper,spinach,flour,potato,meat,almonds
+Salmorejo Cordobés,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Salmorejo Extremeño,0,1,0,0,1,1,1,1,0,0,0,0,0,1,0
+Salmorejo Manchego,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+Porra antequerana,1,1,1,1,1,0,1,0,1,1,0,0,0,0,0
+Salmorejo Adamuceño,0,1,0,1,1,1,0,0,0,0,1,1,1,0,0
+Salmorejo Rondeño,0,0,0,1,1,1,0,1,0,1,0,0,1,1,0
+Salmorejo Jarote,1,1,1,1,1,0,1,1,0,1,0,0,0,1,0
+Mazamorra,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1

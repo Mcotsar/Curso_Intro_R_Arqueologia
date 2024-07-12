@@ -1,0 +1,41 @@
+yacimiento, sitios_encontrados
+La Dehesilla,5
+La Dehesilla,7
+La Dehesilla,6
+La Dehesilla,8
+La Dehesilla,5
+La Dehesilla,7
+La Dehesilla,6
+La Dehesilla,9
+La Dehesilla,5
+La Dehesilla,7
+La Dehesilla 2,12
+La Dehesilla 2,14
+La Dehesilla 2,13
+La Dehesilla 2,11
+La Dehesilla 2,14
+La Dehesilla 2,13
+La Dehesilla 2,12
+La Dehesilla 2,10
+La Dehesilla 2,11
+La Dehesilla 2,14
+El tormento,8
+El tormento,6
+El tormento,7
+El tormento,8
+El tormento,9
+El tormento,10
+El tormento,8
+El tormento,7
+El tormento,8
+El tormento,9
+Abersimemuero,15
+Abersimemuero,16
+Abersimemuero,14
+Abersimemuero,15
+Abersimemuero,16
+Abersimemuero,15
+Abersimemuero,14
+Abersimemuero,13
+Abersimemuero,14
+Abersimemuero,16
